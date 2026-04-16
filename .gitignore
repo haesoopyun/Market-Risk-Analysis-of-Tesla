@@ -1,0 +1,56 @@
+# =====================================================
+#  Market Risk Analysis of Tesla .gitignore
+#  Covers: R, Python, macOS, Jupyter
+# =====================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rapp.history
+*.Rproj
+*.rds
+*.Rout
+*.Rout.save
+*.Rout.fail
+
+# LaTeX (if report compiled locally)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Word temp/lock files
+~$*
+
+# OS junk
+*.tmp
+*.swp
+*.bak
+*.old
