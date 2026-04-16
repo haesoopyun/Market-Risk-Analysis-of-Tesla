@@ -1,7 +1,5 @@
-# =====================================================
 #  Market Risk Analysis of Tesla .gitignore
 #  Covers: R, Python, macOS, Jupyter
-# =====================================================
 
 # macOS
 .DS_Store
